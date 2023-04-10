@@ -6,10 +6,8 @@ _This web app was created using HTML, CSS and JS and was designed to calculate w
 
 ### Features
 
-
 * Simple interface: The app has a simple and easy-to-use interface, making it accessible to everyone.
 * Accurate calculations: The app uses an accurate algorithm to determine whether a year is a leap year or not.
-* Flexible input options: Users can input years in various formats, including as integer values, Roman numerals, or Gregorian calendar notation.
 * Instant results: The app provides instant results, showing whether the input year is a leap year or not.
 
 ### How to Use
